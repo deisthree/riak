@@ -82,4 +82,4 @@ to the `rootfs/` folder.
 Along with unit tests, Deis values functional and integration testing.
 These tests should go in the `_tests` folder.
 
-[v2.18]: https://github.com/deis/workflow/releases/tag/v2.18.0
+[v2.18]: https://github.com/deisthree/workflow/releases/tag/v2.18.0
